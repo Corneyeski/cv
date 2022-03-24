@@ -4,6 +4,12 @@ Programador especializado en Backend con Java/Kotlin en aplicaciones monoliticas
 
 [CV](https://github.com/Corneyeski/cv/blob/main/curriculum%20Alan%20Vallv%C3%A9%20English%20V2-1.pdf)
 
+**Sections/secciones README:**
+
+[Español](#Castellano)<a name="Castellano"></a>
+
+[English](#English)<a name="English"></a>
+
 # Requirements for Job oportunities
 
 Please read this requirements to ensure if your job offer suits me,
