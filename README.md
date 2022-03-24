@@ -12,7 +12,8 @@ Programador especializado en Backend con Java/Kotlin en aplicaciones monoliticas
 
 # Requirements for Job oportunities
 
-Please read this requirements to ensure if your job offer suits me,
+EN: Please read this requirements to ensure if your job offer suits me
+ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis y sus intereses
 
 ## English
 
