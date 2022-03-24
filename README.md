@@ -2,8 +2,7 @@
 
 Programador especializado en Backend con Java/Kotlin en aplicaciones monoliticas y de microservicios con Spring.
 
-CV
-
+[CV](https://github.com/Corneyeski/cv/blob/main/curriculum%20Alan%20Vallv%C3%A9%20English%20V2-1.pdf)
 
 # Requirements for Job oportunities
 
