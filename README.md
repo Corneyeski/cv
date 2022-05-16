@@ -23,9 +23,9 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 
 * **Location:** Barcelona city or fully remote
 
-* **Journal:** 
-  * 40h week 
+* **Journal:**
   * 30 hours week **for 36/40K salary** **Specially interested on this**
+  * I'm currently teaching programming in the afternoon, that's why I request a 30 working hours.
 
 * **Benefits:** TBD
   * **Examples:** Ticket restaurant, fruit, presential trainings...
@@ -48,8 +48,8 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 * **Localizacion:** Barcelona city or fully remote
 
 * **Jornada laboral:** 
-  * 40h semana 
-  * 30H semana **por un salario de 36/40K** **Tengo especial interes en jornadas de 30H**
+  * 30H semana **por un salario de 40/45K** **Tengo especial interes en jornadas de 30H**
+  * Actualmente doy clases por las tardes de programacion, por eso necesito una jornada de 6h.
 
 * **Beneficios:** a discutir
   * **Examples:** Ticket restaurant, fruta, cursos presenciales, cantina...
