@@ -23,12 +23,12 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 
 ### I'm interested in jobs that fills this requirements:
 
-* **Salary range:** 45/50K
+* **Salary range:** 40/50K
 
 * **Location:** Barcelona city or fully remote
 
 * **Journal:**
-  * 30 hours week **for 36/40K salary** **Specially interested on this**
+  * 30 hours week **Right now this is mandatory for me**
   * I'm currently teaching programming in the afternoon, that's why I request a 30 working hours.
 
 * **Benefits:** TBD
@@ -47,12 +47,12 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 
 ### Mis requisitos para recibir una oferta son los siguientes:
 
-* **Rango salarial:** 45/50K
+* **Rango salarial:** 40/50K
 
 * **Localizacion:** Barcelona city or fully remote
 
 * **Jornada laboral:** 
-  * 30H semana **por un salario de 40/45K** **Tengo especial interes en jornadas de 30H**
+  * 30H semana **Ahora mismo esto es necesario para mi**
   * Actualmente doy clases por las tardes de programacion, por eso necesito una jornada de 6h.
 
 * **Beneficios:** a discutir
