@@ -1,5 +1,7 @@
 # Aboute me
 
+## Java/Kotlin Backend developer with Spring/Spring boot with more than 6 yers of expirience in Java and Spring
+
 Programador especializado en Backend con Java/Kotlin en aplicaciones monoliticas y de microservicios con Spring.
 
 [CV](https://github.com/Corneyeski/cv/blob/main/curriculum%20Alan%20Vallv%C3%A9%20English%20V2-1.pdf)
@@ -37,6 +39,38 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 * **Not interested:** Gambling, Banking, insurance
 
 
+#### Experience
+
+##### Languages 
+
+* High level: Java (8+), Kotlin, SQL
+* Mid level: HTML, NoSQL (Mongo), Swift 4
+* low level: javascript, PHP, CSS
+
+##### Frameworks
+
+* High level: Spring, Spring boot, Spring data, Spring securiry, hibernate, JPA, MyBatis
+* mid level: JQuery, Android
+* low level: AngularJS, Drupal, Wordpress, Cordoba
+
+##### Databases
+
+MySQL, mongo, Neo4j, H2, MariaDB, Oracle ddbb
+
+##### Tools
+
+Git, SVN, docker, JHipster, redmine, NPM, Gradle, Maven, Jira, GitLab, Github, Confluence, Jira, Swagger, Linux, Windows, MacOS, Postman, RabbitMQ, Kafka
+
+#### DevOps
+
+Low level on DevOps knowledge, I use a bit of kubernetes, docker, concurse, and some AWS 
+
+#### Architectures
+
+* Monolitic: 4 years of experience
+* Microservices: 3 years
+
+
 #### Contact information
 
 * **phone:** +34 699389065 (let me know before calling)
@@ -62,6 +96,37 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 
 * **Especial interes en:** Videojuegos, applicaciones innovadoras y basicamente proyectos que se salgan de lo estandar
 
+
+#### Experiencia
+
+##### lenguajes y marcas de programacion 
+
+* High level: Java (8+), Kotlin, SQL
+* Mid level: HTML, NoSQL (Mongo), Swift 4
+* low level: javascript, PHP, CSS
+
+##### Frameworks
+
+* High level: Spring, Spring boot, Spring data, Spring securiry, hibernate, JPA, MyBatis
+* mid level: JQuery, Android
+* low level: AngularJS, Drupal, Wordpress, Cordoba
+
+##### Bases de datos
+
+MySQL, mongo, Neo4j, H2, MariaDB, Oracle ddbb
+
+##### Herramientas
+
+Git, SVN, docker, JHipster, redmine, NPM, Gradle, Maven, Jira, GitLab, Github, Confluence, Jira, Swagger, Linux, Windows, MacOS, Postman, RabbitMQ, Kafka
+
+#### DevOps
+
+Tengo un nivel bajo en entorno de DevOps, he utilizado herramientas como docker, un poco de kubernetes y alguna configuracion de AWS
+
+#### Arquitecturas
+
+* Monolitic: 4 años de experiencia
+* Microservices: 3 años de experiencia
 
 #### Informacion de contacto
 
