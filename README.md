@@ -67,7 +67,7 @@ Low level on DevOps knowledge, I use a bit of kubernetes, docker, concurse, and 
 
 #### Architectures
 
-* Monolitic: 4 years of experience
+* monolithic: 4 years of experience
 * Microservices: 3 years
 
 
@@ -125,7 +125,7 @@ Tengo un nivel bajo en entorno de DevOps, he utilizado herramientas como docker,
 
 #### Arquitecturas
 
-* Monolitic: 4 años de experiencia
+* monolithic: 4 años de experiencia
 * Microservices: 3 años de experiencia
 
 #### Informacion de contacto
