@@ -60,7 +60,7 @@ MySQL, mongo, Neo4j, H2, MariaDB, Oracle ddbb
 
 ##### Tools
 
-Git, SVN, docker, JHipster, redmine, NPM, Gradle, Maven, Jira, GitLab, Github, Confluence, Jira, Swagger, Linux, Windows, MacOS, Postman, RabbitMQ, Kafka
+Git, SVN, docker, JHipster, redmine, NPM, Gradle, Maven, Jira, GitLab, Github, Confluence, Jira, Swagger, Linux, Windows, MacOS, Postman, RabbitMQ, Kafka, JUnit 4/5, Mockito
 
 #### DevOps
 
@@ -71,9 +71,10 @@ Low level on DevOps knowledge, I use a bit of kubernetes, docker, concurse, and 
 * monolithic: 4 years of experience
 * Microservices: 3 years
 
-#### Agile
+#### Agile and metodologies
 
 experience with SCRUM methodology 
+TDD, DDD
 
 #### Contact information
 
@@ -121,7 +122,7 @@ MySQL, mongo, Neo4j, H2, MariaDB, Oracle ddbb
 
 ##### Herramientas
 
-Git, SVN, docker, JHipster, redmine, NPM, Gradle, Maven, Jira, GitLab, Github, Confluence, Jira, Swagger, Linux, Windows, MacOS, Postman, RabbitMQ, Kafka
+Git, SVN, docker, JHipster, redmine, NPM, Gradle, Maven, Jira, GitLab, Github, Confluence, Jira, Swagger, Linux, Windows, MacOS, Postman, RabbitMQ, Kafka, JUnit 4/5, Mockito
 
 #### DevOps
 
@@ -132,9 +133,10 @@ Tengo un nivel bajo en entorno de DevOps, he utilizado herramientas como docker,
 * monolithic: 4 años de experiencia
 * Microservices: 3 años de experiencia
 
-#### Agile
+#### Agile y practicas
 
 Experiencia con metodologia SCRUM
+TDD, DDD
 
 #### Informacion de contacto
 
