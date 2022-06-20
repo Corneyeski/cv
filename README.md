@@ -26,7 +26,7 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 
 ### I'm interested in jobs that fills this requirements:
 
-* **Salary range:** 45/50K
+* **Salary range:** 40/50K
 
 * **Location:** Barcelona city or fully remote
 
@@ -86,7 +86,7 @@ TDD, DDD
 
 ### Mis requisitos para recibir una oferta son los siguientes:
 
-* **Rango salarial:** 45/50K
+* **Rango salarial:** 40/50K
 
 * **Localizacion:** Barcelona city or fully remote
 
