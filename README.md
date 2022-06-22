@@ -31,7 +31,7 @@ ES: Por favor, lease los requerimientos para saber si su oferta es acorde a mis 
 * **Location:** Barcelona city or fully remote
 
 * **Journal:**
-  * 30 hours week **Right now this is mandatory for me**
+  * 30H/35H hours week **Right now this is mandatory for me**
   * I'm currently teaching programming in the afternoon, that's why I request a 30 working hours.
 
 * **Benefits:** TBD
@@ -91,7 +91,7 @@ TDD, DDD
 * **Localizacion:** Barcelona city or fully remote
 
 * **Jornada laboral:** 
-  * 30H semana **Ahora mismo esto es necesario para mi**
+  * 30H/35H semana **Ahora mismo esto es necesario para mi**
   * Actualmente doy clases por las tardes de programacion, por eso necesito una jornada de 6h.
 
 * **Beneficios:** a discutir
